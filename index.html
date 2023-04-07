@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Awesome Fine-Grained Image Classification</title>
+
+		<meta name="description" content="Awesome Fine-Grained Image Classification">
+		<meta name="author" content="Edwin 'arkel23' Arkel Rios">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/white.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+		<style>
+			.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5 {
+						  text-transform: none;
+				  }
+		</style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<img class="r-stretch" src="assets/fgir_datasets.png"
+					alt="Common fine-grained image recognition dataset domains">
+					<h3>Awesome Fine-Grained Image Classification'</h3>
+					<p>
+						<small>A collection of fine-grained image recognition papers by <a href="https://arkel23.github.io/">Edwin 'arkel23' Arkel Rios</a>.</small>
+					</p>
+				</section>
+
+				<section>
+					<h2>What is Fine-Grained Classification?</h2>
+					<p>
+						Sub-categories within larger super-category (e.g., bird species, car models or anime characters) 
+					</p>
+					<img class="r-stretch" data-src="https://cdn.myanimelist.net/images/manga/1/245507.jpg" alt="Ya Boy Kongming Manga Cover 1">
+				</section>
+
+				<section id="year_index">
+					<h2>Papers</h2>
+					<ul>
+						<li><a href="2011_2013">2011-2013</a>.</li>
+						<li><a href="#/3/2">2011-2013</a>.</li>
+					</ul>
+				</section>
+
+				<section id="2011_2013">
+					<h2>Touch Optimized</h2>
+					<p>
+						Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
+					</p>
+				</section>
+
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/zoom/zoom.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script src="plugin/math/math.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				width: 700,
+				height: 1000,
+				margin: 0.01,
+				minScale: 0.2,
+				maxScale: 4.0,
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
+			});
+		</script>
+	</body>
+</html>
