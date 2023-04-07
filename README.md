@@ -1,11 +1,12 @@
 # Awesome Fine-Grained Image Classification[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Companion website on [GitHub Pages](https://arkel23.github.io/Awesome-Fine-Grained-Image-Classification/)
+
 Paper scraping description in [link](docs/literature_scraping.md).
 
 This repository will also be used for the Fine-Grained Image Recognition Open Study Initiative (FGIR-OSI).
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
-
 
 ## Surveys
 
