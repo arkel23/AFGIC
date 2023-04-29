@@ -84,7 +84,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Complemental Attention Multi-Feature Fusion Network for Fine-Grained Classification [[paper](https://semanticscholar.org/paper/fb3b47814d344e9e19760c4bbb8686c6664c2e01)]
 - Dynamic Position-aware Network for Fine-grained Image Recognition [[paper](https://semanticscholar.org/paper/cf0723eab4c75e5b6bdfeca38aa80e76531aaa1b)]
 - Learning Scale-Consistent Attention Part Network for Fine-Grained Image Recognition [[paper](https://semanticscholar.org/paper/c7b2e98390bf634ca50cee9e5d3a9319cb3b127d)]
-- Fine-grained Generalization Analysis of Vector-valued Learning [[paper](https://semanticscholar.org/paper/7f163523a2f604256bdb53dc7629420d1e1defc2)]
 - Part-Guided Relational Transformers for Fine-Grained Visual Recognition [[paper](https://semanticscholar.org/paper/160efdab15386cc890b436fb79c536bdecf228d3)]
 - Learning Canonical 3D Object Representation for Fine-Grained Recognition [[paper](https://semanticscholar.org/paper/1e24118e9822dfa5d82a2b3c4b3b6738206b8bd2)]
 - Fair Comparison: Quantifying Variance in Results for Fine-grained Visual Categorization [[paper](https://semanticscholar.org/paper/c6995f98882a201a51d6374722e39dc5f97f4327)]
