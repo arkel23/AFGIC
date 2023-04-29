@@ -1,5 +1,3 @@
-*.png
-*.jpg
 
 # weights
 *.ckpt
@@ -26,7 +24,6 @@
 **/flagged/
 **/wandb/
 **/data/*/*
-!**/assets/*
 !**/data/**/*.csv
 !**/samples/**/cub*
 **/results_train/*
