@@ -18,6 +18,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Papers
 
+### 2024
+
+- SaSPA: Advancing Fine-Grained Classification by Structure and Subject Preserving Augmentation. Michaeli E / Fried O. Reichman U, IL. arXiv 24/06. [[Paper](https://arxiv.org/abs/2406.14551)] [[Project Page](https://eyalmichaeli.github.io/SaSPA-Aug/)] [[Code](https://github.com/EyalMichaeli/SaSPA-Aug)]
+
+  - Class-consistent data augmentations through pipeline consisting of GPT-4 prompts and ControlNET + BLIP-Diffusion
+
 ### 2023
 
 - Fine-Grained Visual Classification via Internal Ensemble Learning Transformer. Xu Q / Luo B. Anhui University, CN. Transactions on Multimedia 2023. [[Paper](https://semanticscholar.org/paper/595adb75ddeb90760c79e89b76d99e55079e0708)]
